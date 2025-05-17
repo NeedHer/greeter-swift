@@ -1,6 +1,6 @@
 import Foundation
 
-struct Hello {
+extension Hello {
   public class HelloWorld {
     private let name: String
 
