@@ -1,6 +1,6 @@
 import Foundation
 
-extension Goodbye {
+extension Farewell {
   public class GoodbyeWorld {
     private let name: String
 
